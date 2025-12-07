@@ -1,4 +1,4 @@
-# HandleHouseLight
+# House Light Contamination Correction
 
 ## Overview
 
